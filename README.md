@@ -8,7 +8,7 @@
 ## 💻 Fullstack Web Developer Enthusiast
 ### Specializing in modern web technologies like Laravel & React.
 
-<br>
+
 
 ## 🚀 Tech Stack
 <p align="center">
