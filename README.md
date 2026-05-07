@@ -4,7 +4,7 @@
 
 <br>
 
-# 👋 Hi, I'm Daven Noor!
+# 👋 Hi, I'm Daven!
 ## 💻 Fullstack Web Developer Enthusiast
 ### Specializing in modern web technologies like Laravel & React.
 
