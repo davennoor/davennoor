@@ -6,7 +6,7 @@
 
 # 👋 Hi, I'm Daven Noor!
 ## 💻 Fullstack Web Developer Enthusiast
-### Specializing in modern web technologies like Laravel & React.
+Specializing in modern web technologies like Laravel & React.
 
 
 
