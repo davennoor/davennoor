@@ -1,25 +1,40 @@
-I'm Daven! 👋
+<div align="center">
 
-### 🚀 Fullstack Web Developer Enthusiast
-Fokus belajar membangun aplikasi modern dengan ekosistem **Laravel** & **React**.
+<img src="Davenn.png" alt="Daven Noor Header" width="100%" />
 
----
+<br>
 
-### 🛠 My Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/MySQL-00000f?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+# 👋 Hi, I'm Daven Noor!
 
----
+## 💻 Fullstack Web Developer Enthusiast
+### Specializing in modern web technologies like Laravel & React.
 
-### 📊 My GitHub Stats
+<br>
+<br>
+
+## 🚀 Tech Stack
+### (Technologies I Use)
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davennoor&show_icons=true&theme=tokyonight&count_private=true" alt="Daven's Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davennoor&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,react,mysql,js,aws&theme=dark" />
 </p>
 
----
+<br>
+<br>
+
+## 📊 My GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=davennoor&show_icons=true&theme=tokyonight&count_private=true&hide_title=true&hide_border=true" alt="Daven's Stats" />
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davennoor&layout=compact&theme=tokyonight&hide_title=true&hide_border=true" alt="Top Languages" />
+
+<br>
+<br>
+
+## 📬 Connect With Me
+
+<a href="https://instagram.com/username_kamu" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" />
+</a>
+
+</div>
