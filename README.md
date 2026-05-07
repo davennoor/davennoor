@@ -1,4 +1,4 @@
-# Hi there, I'm Daven! 👋
+I'm Daven! 👋
 
 ### 🚀 Fullstack Web Developer Enthusiast
 Fokus belajar membangun aplikasi modern dengan ekosistem **Laravel** & **React**.
