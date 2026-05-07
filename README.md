@@ -23,6 +23,3 @@ Fokus belajar membangun aplikasi modern dengan ekosistem **Laravel** & **React**
 </p>
 
 ---
-
-### 📬 Connect With Me
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/username_kamu)
