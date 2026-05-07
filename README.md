@@ -30,11 +30,3 @@
 
 <br>
 <br>
-
-## 📬 Connect With Me
-
-<a href="https://instagram.com/username_kamu" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" />
-</a>
-
-</div>
