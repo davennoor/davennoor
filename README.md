@@ -16,4 +16,6 @@
 </p>
 
 <br>
+<p align="center">Belajar JavaScript Lebih Baik Lagi
+</p>
 
