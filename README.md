@@ -4,7 +4,7 @@
 
 <br>
 
-# 👋 Hi, I'm Daven!!
+# 👋 Hi, I'm Daven!
 ## 💻 Fullstack Web Developer Enthusiast.
 ### Specializing in modern web technologies like Laravel & React.
 
@@ -16,6 +16,6 @@
 </p>
 
 <br>
-<p align="center">Belajar JavaScript Lebih Baik Lagi!
+<p align="center">Selalu Lancar dan Mudah
 </p>
 
